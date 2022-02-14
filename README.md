@@ -10,4 +10,4 @@ node app.js remove --title="CodezUp"
 node app.js list
 
 # Read a Note
-node app.js add --title="CodezUp"
+node app.js read --title="CodezUp"
